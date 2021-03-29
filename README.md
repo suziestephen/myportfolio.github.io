@@ -47,7 +47,7 @@ I selected my favourite projects and wrote short "abouts" with accompaying image
 
 ## Functionality 
 <b>See My Portfolio:</b><br>
-<h3><a href=""> My Profile</a></h3>
 
-![]()
+![demo](https://user-images.githubusercontent.com/74234842/112829843-6f098880-90dd-11eb-9b08-45519ae148fe.gif)
+
 
