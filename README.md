@@ -3,7 +3,7 @@
 We are required as part of the course to create a porfolio for employers that has access to our Github, Linkedin, current CV and past work.
 
 <br> <b>See Deployed Application Link: </b>
-<a href=""> My Portfolio </a>
+<a href="https://suziestephen.github.io/myportfolio.github.io/"> My Portfolio </a>
 
 ## Table of contents
   - [Motivation](#motivation)
@@ -46,7 +46,7 @@ I selected my favourite projects and wrote short "abouts" with accompaying image
 
 
 ## Functionality 
-<b>See deployed link here:</b><br>
+<b>See My Portfolio:</b><br>
 <h3><a href=""> My Profile</a></h3>
 
 ![]()
